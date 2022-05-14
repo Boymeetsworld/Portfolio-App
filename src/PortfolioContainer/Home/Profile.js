@@ -25,7 +25,9 @@ export default function Profile() {
           <div className="profile-details-role">
             <span className="primary-text">
               {" "}
-              <h1></h1>
+              <h1>
+                  
+              </h1>
             </span>
           </div>
         </div>
